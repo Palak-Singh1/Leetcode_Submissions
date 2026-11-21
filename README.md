@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
