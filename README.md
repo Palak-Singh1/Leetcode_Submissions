@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
