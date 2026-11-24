@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2942-find-words-containing-character) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Counting
 |  |
 | ------- |
