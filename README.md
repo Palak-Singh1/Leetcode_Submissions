@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1512-number-of-good-pairs](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1512-number-of-good-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
