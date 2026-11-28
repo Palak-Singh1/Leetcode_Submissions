@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1148-article-views-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1661-average-time-of-process-per-machine) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Palak-Singh1/Leetcode_Submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
